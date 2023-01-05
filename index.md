@@ -13,11 +13,11 @@ This is about sharing, sharing everything I do with anyone interested.
 
 ***
 
+## [Blog](./blog/index.md)
+
 ### Latest entries
 
-- **[title](link)**  
-    *2023/01/05*
-- **[title](link)**  
+- **[Which is the best date format?](./blog/20230105/date-formats.md)**  
     *2023/01/05*
 
 ***

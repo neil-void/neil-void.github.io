@@ -1,4 +1,4 @@
-<img src="me.png" alt="drawing" width="200"/>
+<img src="me.png" alt="avatar" width="200"/>
 
 # Neil Void codes for a living
 
@@ -12,11 +12,11 @@ This is about sharing, sharing everything I do with anyone interested.
 
 ***
 
+## [Blog](./blog/index.md)
+
 ### Latest entries
 
-- **[title](link)**  
-    *2023/01/05*
-- **[title](link)**  
+- **[Which is the best date format?](/blog/20230105/date-formats.md)**  
     *2023/01/05*
 
 ***
